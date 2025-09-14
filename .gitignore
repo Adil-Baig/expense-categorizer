@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+!data/sample_expenses.csv   # keep at least one example dataset tracked
+!data/synthetic_expenses.csv
+
+# Models
+models/*.pkl
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# test code
+generate_*.py

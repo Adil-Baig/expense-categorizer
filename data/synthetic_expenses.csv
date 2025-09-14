@@ -1,0 +1,301 @@
+date,description,amount,category
+2025-09-08,Starbucks,149.6,Food
+2025-09-22,Lyft,148.61,Transport
+2025-09-01,Subway,87.27,Food
+2025-09-20,McDonalds,50.37,Food
+2025-09-21,Subway,43.77,Food
+2025-09-09,Water Bill,92.6,Rent/Bills
+2025-09-11,McDonalds,141.14,Food
+2025-09-25,Walmart,46.99,Shopping
+2025-09-04,Amazon,23.09,Shopping
+2025-09-26,Target,122.73,Shopping
+2025-09-30,KFC,109.56,Food
+2025-09-27,Electricity Co.,112.65,Rent/Bills
+2025-09-03,eBay,42.5,Shopping
+2025-09-03,McDonalds,155.75,Food
+2025-09-15,Uber,79.12,Transport
+2025-09-07,Walmart,77.19,Shopping
+2025-09-06,Amazon,123.78,Shopping
+2025-09-09,Lyft,95.14,Transport
+2025-09-25,Metro,169.36,Transport
+2025-09-26,McDonalds,165.25,Food
+2025-09-07,BestBuy,57.21,Shopping
+2025-09-13,Walmart,132.81,Shopping
+2025-09-08,Water Bill,56.65,Rent/Bills
+2025-09-19,eBay,88.54,Shopping
+2025-09-05,Internet Provider,47.77,Rent/Bills
+2025-09-28,Electricity Co.,152.38,Rent/Bills
+2025-09-26,McDonalds,127.35,Food
+2025-09-20,Electricity Co.,80.03,Rent/Bills
+2025-09-28,Internet Provider,194.36,Rent/Bills
+2025-09-18,Starbucks,137.93,Food
+2025-09-14,Target,26.75,Shopping
+2025-09-24,Gas Station,5.63,Transport
+2025-09-17,eBay,153.58,Shopping
+2025-09-17,PizzaHut,169.13,Food
+2025-09-06,Lyft,77.91,Transport
+2025-09-01,Subway,68.21,Food
+2025-09-27,PizzaHut,176.35,Food
+2025-09-29,Walmart,16.3,Shopping
+2025-09-27,Starbucks,147.72,Food
+2025-09-05,Subway,154.34,Food
+2025-09-28,Water Bill,56.69,Rent/Bills
+2025-09-25,Water Bill,186.14,Rent/Bills
+2025-09-22,Metro,82.8,Transport
+2025-09-15,BestBuy,180.42,Shopping
+2025-09-11,McDonalds,48.82,Food
+2025-09-19,Subway,113.01,Food
+2025-09-21,Uber,18.84,Transport
+2025-09-02,McDonalds,18.14,Food
+2025-09-09,Amazon,105.26,Shopping
+2025-09-24,Water Bill,110.15,Rent/Bills
+2025-09-26,Water Bill,158.0,Rent/Bills
+2025-09-22,Water Bill,23.39,Rent/Bills
+2025-09-15,Internet Provider,87.6,Rent/Bills
+2025-09-24,Starbucks,16.82,Food
+2025-09-07,Amazon,53.49,Shopping
+2025-09-09,Water Bill,87.27,Rent/Bills
+2025-09-03,Water Bill,175.52,Rent/Bills
+2025-09-18,Electricity Co.,14.86,Rent/Bills
+2025-09-28,Starbucks,185.64,Food
+2025-09-16,Lyft,84.25,Transport
+2025-09-06,Gas Station,180.98,Transport
+2025-09-09,Electricity Co.,197.14,Rent/Bills
+2025-09-24,Internet Provider,87.49,Rent/Bills
+2025-09-07,Water Bill,42.03,Rent/Bills
+2025-09-02,Subway,148.47,Food
+2025-09-16,Amazon,14.78,Shopping
+2025-09-03,Uber,192.35,Transport
+2025-09-22,Uber,121.03,Transport
+2025-09-29,Gas Station,28.38,Transport
+2025-09-20,Taxi,120.93,Transport
+2025-09-19,KFC,133.19,Food
+2025-09-23,Target,44.83,Shopping
+2025-09-05,Walmart,56.79,Shopping
+2025-09-25,BestBuy,66.65,Shopping
+2025-09-19,Starbucks,94.37,Food
+2025-09-17,Starbucks,109.84,Food
+2025-09-29,Walmart,186.99,Shopping
+2025-09-06,McDonalds,77.06,Food
+2025-09-26,Internet Provider,124.28,Rent/Bills
+2025-09-22,Subway,63.38,Food
+2025-09-29,McDonalds,56.57,Food
+2025-09-10,Subway,35.31,Food
+2025-09-21,Metro,44.7,Transport
+2025-09-29,eBay,100.26,Shopping
+2025-09-27,Starbucks,128.69,Food
+2025-09-25,Amazon,5.69,Shopping
+2025-09-15,Metro,36.51,Transport
+2025-09-29,Electricity Co.,26.82,Rent/Bills
+2025-09-12,Taxi,12.03,Transport
+2025-09-10,Gas Station,29.85,Transport
+2025-09-07,Amazon,180.29,Shopping
+2025-09-18,Uber,73.97,Transport
+2025-09-08,Water Bill,185.52,Rent/Bills
+2025-09-01,Lyft,176.88,Transport
+2025-09-14,Metro,157.57,Transport
+2025-09-23,Metro,36.04,Transport
+2025-09-28,KFC,175.07,Food
+2025-09-30,Water Bill,43.92,Rent/Bills
+2025-09-26,Internet Provider,64.51,Rent/Bills
+2025-09-07,Lyft,9.61,Transport
+2025-09-03,Internet Provider,59.33,Rent/Bills
+2025-09-13,Target,130.09,Shopping
+2025-09-09,Amazon,27.49,Shopping
+2025-09-09,Taxi,192.69,Transport
+2025-09-12,Starbucks,121.33,Food
+2025-09-17,BestBuy,123.21,Shopping
+2025-09-07,KFC,180.4,Food
+2025-09-01,Amazon,143.21,Shopping
+2025-09-22,Metro,89.1,Transport
+2025-09-28,eBay,66.21,Shopping
+2025-09-22,PizzaHut,103.89,Food
+2025-09-10,Internet Provider,83.47,Rent/Bills
+2025-09-13,Lyft,86.99,Transport
+2025-09-13,Taxi,115.98,Transport
+2025-09-14,PizzaHut,60.95,Food
+2025-09-22,BestBuy,91.15,Shopping
+2025-09-29,Taxi,97.27,Transport
+2025-09-22,Uber,60.34,Transport
+2025-09-25,Amazon,164.59,Shopping
+2025-09-07,Metro,48.8,Transport
+2025-09-16,Uber,14.01,Transport
+2025-09-21,KFC,85.82,Food
+2025-09-08,Gas Station,101.4,Transport
+2025-09-28,Uber,179.07,Transport
+2025-09-26,KFC,47.67,Food
+2025-09-30,Electricity Co.,113.69,Rent/Bills
+2025-09-15,KFC,31.0,Food
+2025-09-24,BestBuy,124.47,Shopping
+2025-09-24,Rent Payment,179.96,Rent/Bills
+2025-09-08,Rent Payment,55.54,Rent/Bills
+2025-09-08,eBay,99.5,Shopping
+2025-09-10,BestBuy,20.11,Shopping
+2025-09-29,Metro,70.49,Transport
+2025-09-13,McDonalds,34.41,Food
+2025-09-14,Lyft,17.52,Transport
+2025-09-02,eBay,95.86,Shopping
+2025-09-25,Gas Station,80.95,Transport
+2025-09-01,Subway,79.17,Food
+2025-09-28,Target,151.93,Shopping
+2025-09-09,Water Bill,100.2,Rent/Bills
+2025-09-11,Rent Payment,10.66,Rent/Bills
+2025-09-30,Water Bill,168.9,Rent/Bills
+2025-09-30,Taxi,109.15,Transport
+2025-09-14,Electricity Co.,21.37,Rent/Bills
+2025-09-09,Gas Station,40.44,Transport
+2025-09-11,Internet Provider,46.27,Rent/Bills
+2025-09-27,BestBuy,59.26,Shopping
+2025-09-16,Internet Provider,167.81,Rent/Bills
+2025-09-12,Subway,15.16,Food
+2025-09-21,Uber,157.34,Transport
+2025-09-07,Starbucks,190.17,Food
+2025-09-05,Subway,34.71,Food
+2025-09-07,Electricity Co.,114.97,Rent/Bills
+2025-09-06,Internet Provider,154.55,Rent/Bills
+2025-09-04,McDonalds,193.12,Food
+2025-09-30,PizzaHut,117.28,Food
+2025-09-07,Rent Payment,188.59,Rent/Bills
+2025-09-21,Subway,139.67,Food
+2025-09-10,Uber,140.95,Transport
+2025-09-12,Subway,157.61,Food
+2025-09-21,Internet Provider,18.45,Rent/Bills
+2025-09-27,Amazon,170.67,Shopping
+2025-09-12,Electricity Co.,89.54,Rent/Bills
+2025-09-24,Water Bill,89.92,Rent/Bills
+2025-09-18,eBay,162.6,Shopping
+2025-09-24,Rent Payment,89.94,Rent/Bills
+2025-09-27,Target,171.08,Shopping
+2025-09-08,PizzaHut,176.92,Food
+2025-09-16,Rent Payment,70.6,Rent/Bills
+2025-09-12,Walmart,100.07,Shopping
+2025-09-20,Target,59.53,Shopping
+2025-09-07,eBay,6.98,Shopping
+2025-09-16,McDonalds,145.41,Food
+2025-09-16,Gas Station,130.95,Transport
+2025-09-08,Electricity Co.,23.15,Rent/Bills
+2025-09-19,Water Bill,64.71,Rent/Bills
+2025-09-12,BestBuy,112.93,Shopping
+2025-09-15,Internet Provider,73.6,Rent/Bills
+2025-09-04,Target,54.02,Shopping
+2025-09-18,Metro,28.31,Transport
+2025-09-16,Lyft,47.2,Transport
+2025-09-17,eBay,195.44,Shopping
+2025-09-10,Amazon,167.36,Shopping
+2025-09-01,Metro,39.99,Transport
+2025-09-02,Metro,13.88,Transport
+2025-09-25,Walmart,129.38,Shopping
+2025-09-19,Electricity Co.,175.18,Rent/Bills
+2025-09-11,BestBuy,98.35,Shopping
+2025-09-28,Uber,54.23,Transport
+2025-09-13,Electricity Co.,165.31,Rent/Bills
+2025-09-22,Electricity Co.,117.52,Rent/Bills
+2025-09-19,McDonalds,34.09,Food
+2025-09-04,Amazon,198.81,Shopping
+2025-09-13,Water Bill,156.26,Rent/Bills
+2025-09-19,Rent Payment,62.98,Rent/Bills
+2025-09-02,Internet Provider,115.88,Rent/Bills
+2025-09-09,McDonalds,126.98,Food
+2025-09-18,McDonalds,51.77,Food
+2025-09-15,McDonalds,5.52,Food
+2025-09-10,Internet Provider,11.36,Rent/Bills
+2025-09-08,BestBuy,18.88,Shopping
+2025-09-30,eBay,133.93,Shopping
+2025-09-08,Gas Station,27.38,Transport
+2025-09-03,Metro,166.19,Transport
+2025-09-20,McDonalds,159.56,Food
+2025-09-23,BestBuy,29.25,Shopping
+2025-09-17,BestBuy,188.82,Shopping
+2025-09-02,Rent Payment,20.69,Rent/Bills
+2025-09-01,Internet Provider,122.72,Rent/Bills
+2025-09-27,McDonalds,192.57,Food
+2025-09-25,PizzaHut,117.37,Food
+2025-09-15,Gas Station,106.2,Transport
+2025-09-14,Walmart,199.4,Shopping
+2025-09-14,Electricity Co.,96.65,Rent/Bills
+2025-09-28,Target,135.68,Shopping
+2025-09-16,Metro,85.27,Transport
+2025-09-18,BestBuy,163.65,Shopping
+2025-09-09,KFC,22.17,Food
+2025-09-13,Amazon,194.19,Shopping
+2025-09-02,Subway,95.09,Food
+2025-09-25,Taxi,75.55,Transport
+2025-09-07,Rent Payment,153.2,Rent/Bills
+2025-09-10,eBay,30.55,Shopping
+2025-09-21,Rent Payment,28.68,Rent/Bills
+2025-09-01,Lyft,65.6,Transport
+2025-09-27,Electricity Co.,48.82,Rent/Bills
+2025-09-21,KFC,189.68,Food
+2025-09-10,Gas Station,186.87,Transport
+2025-09-16,BestBuy,167.77,Shopping
+2025-09-13,Gas Station,112.5,Transport
+2025-09-29,Taxi,104.11,Transport
+2025-09-26,Uber,58.87,Transport
+2025-09-17,Internet Provider,187.18,Rent/Bills
+2025-09-10,Amazon,60.15,Shopping
+2025-09-16,Water Bill,92.08,Rent/Bills
+2025-09-18,Target,112.62,Shopping
+2025-09-28,Rent Payment,186.91,Rent/Bills
+2025-09-08,Lyft,116.5,Transport
+2025-09-16,Electricity Co.,67.04,Rent/Bills
+2025-09-26,Rent Payment,197.74,Rent/Bills
+2025-09-05,Gas Station,193.14,Transport
+2025-09-15,Amazon,175.47,Shopping
+2025-09-01,Subway,182.54,Food
+2025-09-05,Gas Station,174.83,Transport
+2025-09-09,KFC,157.4,Food
+2025-09-21,eBay,140.08,Shopping
+2025-09-28,PizzaHut,171.21,Food
+2025-09-29,Internet Provider,127.23,Rent/Bills
+2025-09-08,Electricity Co.,125.4,Rent/Bills
+2025-09-14,Walmart,150.62,Shopping
+2025-09-23,Starbucks,91.52,Food
+2025-09-26,Amazon,13.97,Shopping
+2025-09-14,PizzaHut,74.9,Food
+2025-09-19,Lyft,108.58,Transport
+2025-09-20,Lyft,39.14,Transport
+2025-09-19,Water Bill,102.05,Rent/Bills
+2025-09-09,Lyft,94.92,Transport
+2025-09-29,Internet Provider,135.03,Rent/Bills
+2025-09-06,Internet Provider,137.13,Rent/Bills
+2025-09-19,KFC,189.32,Food
+2025-09-15,BestBuy,139.61,Shopping
+2025-09-28,Walmart,199.88,Shopping
+2025-09-19,Electricity Co.,51.26,Rent/Bills
+2025-09-23,eBay,62.7,Shopping
+2025-09-22,Amazon,195.7,Shopping
+2025-09-28,Internet Provider,6.58,Rent/Bills
+2025-09-27,Subway,150.31,Food
+2025-09-12,Walmart,123.38,Shopping
+2025-09-22,Lyft,126.07,Transport
+2025-09-21,Uber,181.16,Transport
+2025-09-02,PizzaHut,158.78,Food
+2025-09-10,Walmart,22.58,Shopping
+2025-09-05,BestBuy,39.25,Shopping
+2025-09-09,eBay,102.85,Shopping
+2025-09-16,Metro,183.24,Transport
+2025-09-15,Target,161.83,Shopping
+2025-09-08,McDonalds,152.06,Food
+2025-09-13,Internet Provider,22.61,Rent/Bills
+2025-09-15,PizzaHut,109.63,Food
+2025-09-27,Target,118.99,Shopping
+2025-09-16,Amazon,136.59,Shopping
+2025-09-18,Subway,177.43,Food
+2025-09-03,eBay,48.17,Shopping
+2025-09-04,Internet Provider,131.6,Rent/Bills
+2025-09-10,Uber,189.52,Transport
+2025-09-29,Electricity Co.,23.95,Rent/Bills
+2025-09-22,Gas Station,93.46,Transport
+2025-09-21,Water Bill,177.66,Rent/Bills
+2025-09-09,KFC,125.05,Food
+2025-09-15,PizzaHut,47.37,Food
+2025-09-22,Metro,24.37,Transport
+2025-09-21,eBay,180.83,Shopping
+2025-09-07,Amazon,82.64,Shopping
+2025-09-07,KFC,22.88,Food
+2025-09-08,Starbucks,158.42,Food
+2025-09-27,Taxi,45.02,Transport
+2025-09-28,Taxi,47.11,Transport
+2025-09-26,Metro,156.0,Transport
+2025-09-05,PizzaHut,172.39,Food
+2025-09-06,Taxi,53.88,Transport

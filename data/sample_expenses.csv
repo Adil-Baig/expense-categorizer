@@ -1,6 +1,251 @@
-description,amount,category
-Starbucks coffee,5.5,Food
-Uber ride,12.3,Transport
-Amazon book,15.0,Shopping
-Grocery store,30.2,Food
-Cinema ticket,8.5,Entertainment
+description,category
+Bought new video game,Entertainment
+xyz xyz 123,Food
+Grocery shopping at Whole Foods,Food
+lunch expense payment payment xyz abc,Entertainment
+Phone bill payment,Utilities
+Trash collection fee,Utilities
+Gas refill at Shell,Transport
+expense lunch random,Transport
+Bought groceries at Walmart,Food
+random xyz 123 xyz xyz 123,Food
+Trash collection fee,Utilities
+Uber ride to office,Transport
+Movie ticket,Entertainment
+Bought new video game,Entertainment
+abc lunch ticket lunch,Healthcare
+Concert ticket,Entertainment
+Doctor consultation,Healthcare
+Internet subscription,Utilities
+Parking fee at mall,Transport
+Snacks from local bakery,Food
+ticket expense payment,Transport
+Medical lab test,Healthcare
+Dinner at Italian restaurant,Food
+Paid electricity bill,Utilities
+Bought new video game,Entertainment
+Grocery shopping at Whole Foods,Food
+123 xyz ticket xyz abc abc,Utilities
+Movie ticket,Entertainment
+Amusement park visit,Entertainment
+Medicine for flu,Healthcare
+Parking fee at mall,Transport
+Bought new video game,Entertainment
+Bought groceries at Walmart,Food
+Gas bill,Utilities
+Gas refill at Shell,Transport
+expense lunch xyz abc,Utilities
+Medicine for flu,Healthcare
+Gas bill,Utilities
+Movie ticket,Entertainment
+Doctor consultation,Healthcare
+Taxi to airport,Transport
+xyz ticket random abc,Entertainment
+Coffee at Starbucks,Food
+Netflix subscription,Entertainment
+Dental checkup,Healthcare
+Bus ticket downtown,Transport
+Dinner at Italian restaurant,Food
+Vitamins purchase,Healthcare
+xyz payment abc payment lunch abc,Entertainment
+Taxi to airport,Transport
+Movie ticket,Entertainment
+Dinner at Italian restaurant,Food
+expense ticket abc 123,Healthcare
+Snacks from local bakery,Food
+Uber ride to office,Transport
+Grocery shopping at Whole Foods,Food
+Trash collection fee,Utilities
+Internet subscription,Utilities
+Doctor consultation,Healthcare
+Netflix subscription,Entertainment
+Taxi to airport,Transport
+Pharmacy purchase,Healthcare
+xyz ticket payment payment 123 123,Healthcare
+Gas refill at Shell,Transport
+abc ticket random,Utilities
+Train pass for commute,Transport
+Train pass for commute,Transport
+Netflix subscription,Entertainment
+ticket lunch abc payment,Utilities
+Movie ticket,Entertainment
+Train pass for commute,Transport
+Snacks from local bakery,Food
+Medicine for flu,Healthcare
+Trash collection fee,Utilities
+Dental checkup,Healthcare
+Phone bill payment,Utilities
+xyz expense random,Transport
+Lunch at McDonald's,Food
+Amusement park visit,Entertainment
+Bus ticket downtown,Transport
+Dinner at Italian restaurant,Food
+random payment abc,Food
+Uber ride to office,Transport
+Netflix subscription,Entertainment
+Grocery shopping at Whole Foods,Food
+payment xyz expense expense 123 abc,Utilities
+Bus ticket downtown,Transport
+Lunch at McDonald's,Food
+Phone bill payment,Utilities
+Coffee at Starbucks,Food
+Trash collection fee,Utilities
+xyz lunch expense,Food
+lunch expense payment lunch,Utilities
+Dental checkup,Healthcare
+123 xyz 123 lunch,Food
+Lunch at McDonald's,Food
+Medical lab test,Healthcare
+Concert ticket,Entertainment
+Gas refill at Shell,Transport
+Phone bill payment,Utilities
+Concert ticket,Entertainment
+Taxi to airport,Transport
+expense abc lunch abc payment expense,Entertainment
+Uber ride to office,Transport
+Internet subscription,Utilities
+Snacks from local bakery,Food
+Vitamins purchase,Healthcare
+Bought new video game,Entertainment
+Lunch at McDonald's,Food
+Amusement park visit,Entertainment
+Paid electricity bill,Utilities
+Grocery shopping at Whole Foods,Food
+Pharmacy purchase,Healthcare
+Bus ticket downtown,Transport
+Pharmacy purchase,Healthcare
+Bought new video game,Entertainment
+Grocery shopping at Whole Foods,Food
+123 ticket 123,Utilities
+ticket payment xyz abc,Utilities
+Grocery shopping at Whole Foods,Food
+Water bill payment,Utilities
+Bus ticket downtown,Transport
+Bus ticket downtown,Transport
+Phone bill payment,Utilities
+Netflix subscription,Entertainment
+Medical lab test,Healthcare
+Taxi to airport,Transport
+Bought groceries at Walmart,Food
+Theater play ticket,Entertainment
+Water bill payment,Utilities
+Theater play ticket,Entertainment
+ticket abc payment lunch,Utilities
+Uber ride to office,Transport
+random 123 lunch expense,Healthcare
+Doctor consultation,Healthcare
+Medical lab test,Healthcare
+payment expense random payment,Transport
+Water bill payment,Utilities
+Dinner at Italian restaurant,Food
+Lunch at McDonald's,Food
+abc xyz expense payment xyz abc,Food
+Movie ticket,Entertainment
+Doctor consultation,Healthcare
+payment expense lunch random ticket 123,Transport
+abc lunch ticket,Utilities
+Gas refill at Shell,Transport
+Dental checkup,Healthcare
+Doctor consultation,Healthcare
+expense payment payment,Entertainment
+Snacks from local bakery,Food
+Paid electricity bill,Utilities
+Water bill payment,Utilities
+Doctor consultation,Healthcare
+Water bill payment,Utilities
+Taxi to airport,Transport
+Trash collection fee,Utilities
+lunch lunch payment,Healthcare
+payment payment 123 abc,Healthcare
+Medicine for flu,Healthcare
+Medical lab test,Healthcare
+Train pass for commute,Transport
+Concert ticket,Entertainment
+Bought groceries at Walmart,Food
+ticket expense lunch payment,Food
+random expense abc ticket lunch,Food
+Water bill payment,Utilities
+Movie ticket,Entertainment
+Theater play ticket,Entertainment
+Trash collection fee,Utilities
+Dinner at Italian restaurant,Food
+Trash collection fee,Utilities
+Dinner at Italian restaurant,Food
+Uber ride to office,Transport
+Doctor consultation,Healthcare
+Coffee at Starbucks,Food
+Uber ride to office,Transport
+Snacks from local bakery,Food
+Netflix subscription,Entertainment
+Dinner at Italian restaurant,Food
+Trash collection fee,Utilities
+Taxi to airport,Transport
+Bought new video game,Entertainment
+Snacks from local bakery,Food
+Uber ride to office,Transport
+Bus ticket downtown,Transport
+Internet subscription,Utilities
+Paid electricity bill,Utilities
+Bus ticket downtown,Transport
+Pharmacy purchase,Healthcare
+Concert ticket,Entertainment
+expense random 123 xyz random 123,Entertainment
+Dinner at Italian restaurant,Food
+Concert ticket,Entertainment
+Coffee at Starbucks,Food
+Doctor consultation,Healthcare
+Internet subscription,Utilities
+Concert ticket,Entertainment
+Internet subscription,Utilities
+Theater play ticket,Entertainment
+random lunch xyz lunch random expense,Entertainment
+Parking fee at mall,Transport
+xyz abc ticket random,Entertainment
+Dental checkup,Healthcare
+Train pass for commute,Transport
+Vitamins purchase,Healthcare
+Gas bill,Utilities
+Lunch at McDonald's,Food
+Pharmacy purchase,Healthcare
+Grocery shopping at Whole Foods,Food
+Medical lab test,Healthcare
+Gas refill at Shell,Transport
+payment random random random lunch,Transport
+Train pass for commute,Transport
+Gas bill,Utilities
+Medicine for flu,Healthcare
+Medicine for flu,Healthcare
+Uber ride to office,Transport
+Water bill payment,Utilities
+Phone bill payment,Utilities
+Paid electricity bill,Utilities
+Water bill payment,Utilities
+expense payment random payment expense abc,Utilities
+Amusement park visit,Entertainment
+Train pass for commute,Transport
+123 lunch abc xyz,Healthcare
+Grocery shopping at Whole Foods,Food
+Taxi to airport,Transport
+Coffee at Starbucks,Food
+expense lunch abc,Healthcare
+Doctor consultation,Healthcare
+expense xyz 123 expense abc,Healthcare
+ticket ticket random abc expense,Healthcare
+Bought new video game,Entertainment
+Dinner at Italian restaurant,Food
+Gas bill,Utilities
+Medical lab test,Healthcare
+Netflix subscription,Entertainment
+ticket payment lunch xyz xyz abc,Entertainment
+Taxi to airport,Transport
+Theater play ticket,Entertainment
+123 lunch 123 expense,Transport
+Pharmacy purchase,Healthcare
+Amusement park visit,Entertainment
+Concert ticket,Entertainment
+Dental checkup,Healthcare
+Concert ticket,Entertainment
+Dinner at Italian restaurant,Food
+Parking fee at mall,Transport
+Doctor consultation,Healthcare
+Pharmacy purchase,Healthcare
